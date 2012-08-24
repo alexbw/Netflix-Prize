@@ -1,0 +1,4 @@
+cython svd.pyx; gcc -shared -pthread -fPIC -fwrapv -O2 -Wall -fno-strict-aliasing -I/usr/include/python2.5 -o svd.so svd.c
+
+cython svd.pyx; gcc -m64 -shared -pthread -fPIC -fwrapv -O2 -Wall -fno-strict-aliasing -I/usr/include/python2.5 -o svd.so svd.c
+
