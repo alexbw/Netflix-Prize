@@ -1,9 +1,9 @@
 # My Code for the Netflix Prize
 
-I'm not aware of folks having published their code for the Netflix Prize. Here's mine.
-Under the team name "Hi!", I competed alone in college. I did it mostly for fun, and to learn modern machine learning techniques. It was an incredibly valuable, but strenuous, time. Well worth it on all fronts, though.  
-I peaked out at #45 or so, and then dropped out to work on my senior thesis, and came in #145 or so.  
-What I learned in the process was that smarter wasn't always better -- make an algorithm, and then scale it up, and then make a dozen tweaks to it, and then average all of the results together. That's how you climbed the leaderboard.  
+I'm not aware of folks having published their code for the Netflix Prize. Here's mine.  
+Under the team name "Hi!", I competed alone in college. I did it mostly for fun, and to learn modern machine learning techniques. It was an incredibly valuable, but strenuous, time. Well worth it on all fronts, though.   
+I peaked out at #45 or so, and then dropped out to work on my senior thesis, and came in #145 or so.    
+What I learned in the process was that smarter wasn't always better -- make an algorithm, and then scale it up, and then make a dozen tweaks to it, and then average all of the results together. That's how you climbed the leaderboard.   
   
 
 Anyhoo, I haven't touched this code in awhile, but perhaps it'll be useful to folks interested in competitive data mining.  
